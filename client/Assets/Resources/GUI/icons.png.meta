@@ -39,6 +39,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -121,7 +122,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c872e841202b9a6d0800000000000000
-      internalID: -2978653956524333172
+      internalID: -1185194655624153046
       vertices: []
       indices: 
       edges: []
@@ -142,7 +143,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: c8260a3293947dbf0800000000000000
-      internalID: -299690340437171572
+      internalID: -651005011376069296
       vertices: []
       indices: 
       edges: []
@@ -163,7 +164,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: ab6d27b32e5f51ee0800000000000000
-      internalID: -1290855366162983238
+      internalID: -4360656693393739468
       vertices: []
       indices: 
       edges: []
@@ -184,7 +185,7 @@ TextureImporter:
       tessellationDetail: 0
       bones: []
       spriteID: e73d769fa978cc0e0800000000000000
-      internalID: -2248273014285675650
+      internalID: -8943564620800845004
       vertices: []
       indices: 
       edges: []
@@ -304,6 +305,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      heart_full: -4360656693393739468
+      exp_bg: -4297203505398261690
+      meat_full: 6621252853494989987
+      heart_half: -8943564620800845004
+      cursor: -1185194655624153046
+      meat_half: 3357360333254942192
+      exp_bar: 4202938828118557322
+      meat_empty: -2696506250795634678
+      heart_empty: -651005011376069296
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

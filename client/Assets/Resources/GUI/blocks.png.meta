@@ -54,7 +54,7 @@ TextureImporter:
       213: -2217638906192892890
     second: birch_sapling
   externalObjects: {}
-  serializedVersion: 10
+  serializedVersion: 11
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -74,6 +74,8 @@ TextureImporter:
   isReadable: 0
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -83,8 +85,8 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
     filterMode: 0
-    aniso: -1
-    mipBias: -100
+    aniso: 1
+    mipBias: 0
     wrapU: 1
     wrapV: 1
     wrapW: 1
@@ -105,9 +107,13 @@ TextureImporter:
   textureType: 8
   textureShape: 1
   singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -494,6 +500,23 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      acacia_sapling: -7869637619963332195
+      torch: -1072286700038123539
+      dandelion: -4617810270248844204
+      grass: 8648822512753860137
+      spruce_sapling: -731162151908756296
+      oak_sapling: -5783999774896619636
+      deadbush: -765828404549076094
+      birch_sapling: -2217638906192892890
+      red_mushroom: 5303012258738609949
+      dark_oak_sapling: 1724197931976780274
+      waterlily: -6438410806990013745
+      jungle_sapling: 3827499980460159866
+      poppy: -5869261186202272742
+      brown_mushroom: -2356030714182405122
+      fern: -2181125131451213649
+      web: 8121505033671620420
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

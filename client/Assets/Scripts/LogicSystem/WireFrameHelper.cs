@@ -35,7 +35,7 @@ public class WireFrameHelper : MonoBehaviour
 
     private void OnRenderObject()
     {
-        if (!render || UniversalRenderPipeline.currentRenderingCamera != Camera.main)
+        if (!render || !UniversalRenderPipeline.IsGameCamera(Camera.main))
         {
             return;
         }
